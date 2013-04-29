@@ -1,4 +1,0 @@
-gourou
-======
-
-drupal project
