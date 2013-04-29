@@ -1,5 +1,5 @@
 name = 'gourouotheme'
-description = ''
+description = 'Gourou O Theme est un subtheme de omega'
 core = '7.x'
 engine = 'phptemplate'
 screenshot = 'screenshot.png'
